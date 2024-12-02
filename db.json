@@ -173,12 +173,6 @@
       "title": "Task 29",
       "description": "Task description 29",
       "duedate": "2024-01-17T00:00:00"
-    },
-    {
-      "id": 30,
-      "title": "Task 30",
-      "description": "Task description 30",
-      "duedate": "2024-01-17T00:00:00"
     }
   ],
   "profile": {
