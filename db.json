@@ -179,66 +179,6 @@
       "title": "Task 30",
       "description": "Task description 30",
       "duedate": "2024-01-17T00:00:00"
-    },
-    {
-      "id": 31,
-      "title": "Task 31",
-      "description": "Task description 31",
-      "duedate": "2024-01-18T00:00:00"
-    },
-    {
-      "id": 32,
-      "title": "Task 32",
-      "description": "Task description 32",
-      "duedate": "2024-01-18T00:00:00"
-    },
-    {
-      "id": 33,
-      "title": "Task 33",
-      "description": "Task description 33",
-      "duedate": "2024-01-18T00:00:00"
-    },
-    {
-      "id": 34,
-      "title": "Task 34",
-      "description": "Task description 34",
-      "duedate": "2024-01-18T00:00:00"
-    },
-    {
-      "id": 35,
-      "title": "Task 35",
-      "description": "Task description 35",
-      "duedate": "2024-01-18T00:00:00"
-    },
-    {
-      "id": 36,
-      "title": "Task 36",
-      "description": "Task description 36",
-      "duedate": "2024-01-19T00:00:00"
-    },
-    {
-      "id": 37,
-      "title": "Task 37",
-      "description": "Task description 37",
-      "duedate": "2024-01-19T00:00:00"
-    },
-    {
-      "id": 38,
-      "title": "Task 38",
-      "description": "Task description 38",
-      "duedate": "2024-01-19T00:00:00"
-    },
-    {
-      "id": 39,
-      "title": "Task 39",
-      "description": "Task description 39",
-      "duedate": "2024-01-19T00:00:00"
-    },
-    {
-      "id": 40,
-      "title": "Task 40",
-      "description": "Task description 40",
-      "duedate": "2024-01-19T00:00:00"
     }
   ],
   "profile": {
